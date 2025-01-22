@@ -351,3 +351,15 @@ textarea {
   .form-group{
       margin-bottom: 10px;
   }
+
+
+
+
+
+  .footer-text {
+    margin-left: 20px; /* Adjust this value as needed */
+}
+
+footer {
+    height: 60px; /* Adjust this value as needed */ 
+}

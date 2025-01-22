@@ -337,3 +337,17 @@ hr {
     height: auto;
 }
 
+
+
+
+
+textarea {
+    width: calc(50% - 12px);
+    height: 150px;
+    padding: 6px;
+    box-sizing: border-box;
+    resize: vertical;
+  }
+  .form-group{
+      margin-bottom: 10px;
+  }
